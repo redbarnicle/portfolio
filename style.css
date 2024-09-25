@@ -188,10 +188,9 @@ section .header {
 }
 
 .features .card span svg {
-    width: 24px; /* Set the width of your SVG icon */
-    height: 24px; /* Set the height of your SVG icon */
-    /* Set the color of your SVG icon */
-    margin-right: 5px; /* Adjust spacing between the icon and text if needed */
+    width: 24px;
+    height: 24px;
+    margin-right: 5px;
 }
 
 
